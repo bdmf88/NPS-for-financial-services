@@ -41,7 +41,7 @@
 
 A análise inicial de 5.000 respostas de clientes mostrou que a performance geral do NPS da empresa em 2021 está na faixa **"Justo"** a **"Bom"**. O NPS geral é de **11.80**, um resultado que, apesar de positivo, sugere oportunidades de melhoria.
 
-<img src="images/01-nps-geral-distribuio-classes.png" alt="nps geral por classe" width="440">
+<img src="images/01-nps-geral-distribuio-classes.png" alt="nps geral por classe" width="600">
 
 **Distribuição de Clientes por Classe**
 O total de clientes está distribuído da seguinte forma:
@@ -62,11 +62,11 @@ A segmentação dos dados revelou que o NPS varia significativamente entre os me
 
 - Média anual:
 
-<img src="images/03-nps-por-mercado.png" alt="nps por mercado" width="440">
+<img src="images/03-nps-por-mercado.png" alt="nps por mercado" width="600">
 
 - Performance por trimestre:
 
-<img src="images/04-evolucao-nps-por-mercado.png" alt="evolução de nps por mercado" width="440">
+<img src="images/04-evolucao-nps-por-mercado.png" alt="evolução de nps por mercado" width="600">
 
 **NPS Score por Mercado**
 
@@ -86,7 +86,7 @@ Para entender a origem das discrepâncias, a análise foi aprofundada para o ní
 
 - **Evolução do NPS por Mercado e Mês**
 
-<img src="images/05-evolucao-nps-por-mercado-mes.png" alt="analise granular de evolução de nps por mercado e mês" width="440">    
+<img src="images/05-evolucao-nps-por-mercado-mes.png" alt="analise granular de evolução de nps por mercado e mês" width="600">    
 
 | Mês | MEX | UK | US |
 | --- | --- | --- | --- |
